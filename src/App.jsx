@@ -10,6 +10,7 @@ function App() {
     <>
      <h1>Hola clase como estan ?</h1>
      <Tarjeta/>
+     <p>Descripcion extra</p>
     </>
   )
 }
